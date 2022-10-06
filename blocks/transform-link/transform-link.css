@@ -1,0 +1,5 @@
+.transform-link:hover {
+  transition: color 2s linear;
+  opacity: .6;
+}
+
