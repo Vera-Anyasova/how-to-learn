@@ -1,8 +1,6 @@
 .video__iframes {
-  max-width: 1060px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   margin: 50px auto -50px;
   padding: 0;
-  list-style: none;
 }
